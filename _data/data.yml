@@ -27,7 +27,7 @@ sidebar:
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    # pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -52,159 +52,120 @@ sidebar:
 
         - item: Craft Beer
           link:
+        
+        - item: Leatherworking
+          link:
 
 career-profile:
-    title: Career Profile
+    title: Mobile App Developer, Language Teacher and Security Guard
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        N/A
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Mobile App Developer
+        school: Folkuniversitetet, Göteborg (Yrkeshögskolan) - Distance
+        time: 2022 - Present
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Course focusing on practical knowledge in mobile software development. Programming, projects and collaborations with other students.
+          The languages used are Java, Kotlin, Swift (UIKit and SwiftUI). Experience with the IDEs IntelliJ Idea, Android Studio, Xcode and Visual Studio Code. 
+          The education includes the use of GitHub, Figma and Agile methods.
+      - degree: Ordningsvakt License
+        school: Police
+        time: 2019 - 2019
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+          Two-weeks course held by the Swedish Police in Borås.
+      - degree: Teaching Programme
+        university: University of Gothenburg
+        time: 2011 - 2019
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Education required in order to become a teacher in the Swedish school system.
+          My subjects are English, Italian and Swedish as a Second Language. I studied several
+          other courses at the same time during the programme such as History, German, English
+          and Swedish as a Second Language.
+      - degree: Languages and Communication
+        university: University of Milano
+        time: 2003 - 2008
+        details: |
+          Swedish and German language, culture and literature; various other courses in macro- and microeconomics,
+          anthropology, sociology, italian linguistics and literature, translation studies.
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Ordningsvakt (Security guard)
+        time: 2021 - Present
+        company: Securitas, Göteborg
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Secuirity guard working at Nils Erikssonterminalen, Sahlgrenska universitetssjukhuset, Östra Sjukhuset and Mölndals Sjukhus. 
+          My tasks are maintaining public order and security, working with police, firefighters, medical personnel and hospital
+          security coordinators.
+      - role: Substitute Teacher
+        time: 2017 - 2020
+        company: Gothenburg City, Lärarpartner, Göteborg
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            Working at several schools while studying History and Swedish as a Second Language.
+      - role: Teacher Assistant and Internship
+        time: 2011 - 2014
+        company: Hulebäcksgymnasiet, Härryda
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+            Internship as part of Teaching Programme. Working daily alongside university studies and seminars.
+            - English classes: First and third years.
+            - Italian classes: First, second and third years.
+      - role: Italian Language Teacher
+        time: 2007 - 2010
+        company: Folkuniversitetet, Borås/Göteborg
+        details: |
+            Teaching beginner, intermediate and advanced students. Evening courses.
             - Bullet point
             - Bullet point
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+        Collaborative and individual projects, part of my course.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Typocracy
+        link: "https://github.com/braindome/Typocracy"
+        tagline: "Speed typer game, developed for iOS devices and written in Swift/UIKit."
+      - title: Rate and Chat
+        link: "https://github.com/braindome/RateAndChat"
+        tagline: "A chat app written for Android devices where the user can talk about and rate current programs, films and sport events."
+      - title: Metal Traveller
+        link: "https://github.com/braindome/MetalTraveller"
+        tagline: "Android app to keep track of heavy metal-friendly locations around the world."
+      - title: Minesweeper
+        link: "https://github.com/braindome/minesweeper"
+        tagline: "Classic game, to be played in the terminal. Written in Java"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+# oss:
+#    title: OSS Contributions
+#    intro: >
+#      You can list your open source software contributions in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    contributions:
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Processability and proficiency: Is there a causal relationship?
+        link: "https://gupea.ub.gu.se/handle/2077/62090"
+        authors: Antonio Saracino
+        university: University of Gothenburg, 2019
 
 skills:
     title: Skills &amp; Proficiency
@@ -220,13 +181,13 @@ skills:
         level: 60%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 65%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: JavaScript
+        level: 10%
+        
+      - name: React Native
+        level: 0%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
