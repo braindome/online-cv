@@ -60,7 +60,7 @@ career-profile:
     title: Mobile App Developer
     summary: |
         Driven, engaged and motivated former teacher, currently security guard, looking to accumulate more experience as a software developer.
-        Currently studying Android and iOS developemt at [Folkuniversitetet Göteborg]((https://www.google.com).
+        Currently studying Android and iOS developemt at Folkuniversitetet Göteborg.
 education:
     title: Education
     info:
@@ -71,6 +71,7 @@ education:
           Course focusing on practical knowledge in mobile software development. Programming, projects and collaborations with other students.
           The languages used are Java, Kotlin, Swift (UIKit and SwiftUI). Experience with the IDEs IntelliJ Idea, Android Studio, Xcode and Visual Studio Code. 
           The education includes the use of GitHub, Figma and Agile methods.
+          Link: https://www.folkuniversitetet.se/vara-skolor/yh-utbildningar/alla-yh-utbildningar/it-data/mobilapplikationsutvecklare-distans/
       - degree: Ordningsvakt License
         school: Police
         time: 2019 - 2019
