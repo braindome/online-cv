@@ -130,10 +130,10 @@ projects:
         tagline: "Speed typer game, developed for iOS devices and written in Swift/UIKit."
       - title: Rate and Chat
         link: "https://github.com/braindome/RateAndChat"
-        tagline: "A chat app written for Android devices where the user can talk about and rate current programs, films and sport events."
+        tagline: "An Android/Kotlin chat app written for Android devices where the user can talk about and rate current programs, films and sport events."
       - title: Metal Traveller
         link: "https://github.com/braindome/MetalTraveller"
-        tagline: "Android app to keep track of heavy metal-friendly locations around the world."
+        tagline: "Android/Kotlin app to keep track of heavy metal-friendly locations around the world."
       - title: Minesweeper
         link: "https://github.com/braindome/minesweeper"
         tagline: "Classic game, to be played in the terminal. Written in Java"
