@@ -190,9 +190,9 @@ skills:
 
       - name: JavaScript
         level: 10%
-        
-      - name: React Native
-        level: 0%
+ #       
+ #     - name: React Native
+ #       level: 0%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
