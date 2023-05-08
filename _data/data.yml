@@ -125,6 +125,9 @@ projects:
     intro: >
         Collaborative and individual projects, part of my course.
     assignments:
+      - title: Abitudinario
+        link: "https://github.com/braindome/Abitudinario"
+        tagline: "Simple SwiftUi habit tracker. Individual project and iOS examination."
       - title: Typocracy
         link: "https://github.com/braindome/Typocracy"
         tagline: "Speed typer game, developed for iOS devices and written in Swift/UIKit."
