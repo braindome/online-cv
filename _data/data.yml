@@ -131,6 +131,9 @@ projects:
       - title: Typocracy
         link: "https://github.com/braindome/Typocracy"
         tagline: "Speed typer game, developed for iOS devices and written in Swift/UIKit."
+      - title: TiK
+        link: "https://github.com/braindome/tik"
+        tagline: "Household Task Tracker, developed in SwiftUI and based on Firebase."
       - title: Rate and Chat
         link: "https://github.com/braindome/RateAndChat"
         tagline: "An Android/Kotlin chat app written for Android devices where the user can talk about and rate current programs, films and sport events."
