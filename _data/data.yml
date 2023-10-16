@@ -125,6 +125,9 @@ projects:
     intro: >
         Collaborative and individual projects, part of my course.
     assignments:
+      - title: Film Hound
+        link: "https://github.com/braindome/film-hound"
+        tagline: "Movie database web app with mock shop. Group project, developed with React and Redux."
       - title: Abitudinario
         link: "https://github.com/braindome/Abitudinario"
         tagline: "Simple SwiftUi habit tracker. Individual project and iOS examination."
@@ -192,7 +195,10 @@ skills:
         level: 65%
 
       - name: JavaScript
-        level: 10%
+        level: 40%
+        
+      - name: React
+        level: 40%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
