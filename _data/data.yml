@@ -146,6 +146,9 @@ projects:
       - title: Minesweeper
         link: "https://github.com/braindome/minesweeper"
         tagline: "Classic game, to be played in the terminal. Written in Java"
+      - title: Room Booking API
+        link: "https://github.com/braindome/aws-serverless-hotel-api"
+        tagline: "AWS-based room booking backend. Featuring Lambda functions, API Gateway, DynamoDB and Serverless framework. Collaborative project and examination."
 
 # oss:
 #    title: OSS Contributions
