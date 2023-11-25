@@ -125,6 +125,9 @@ projects:
     intro: >
         Collaborative and individual projects, part of my course.
     assignments:
+      - title: AWSNotes
+        link: "https://github.com/braindome/aws-notes"
+        tagline: "Note-taking app based on AWS, Serverless and Middy. Individual assignment."
       - title: Film Hound
         link: "https://github.com/braindome/film-hound"
         tagline: "Movie database web app with mock shop. Group project, developed with React and Redux."
