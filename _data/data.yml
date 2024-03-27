@@ -66,7 +66,7 @@ education:
     info:
       - degree: Mobile App Developer
         school: Folkuniversitetet, Göteborg (Yrkeshögskolan) - Distance
-        time: 2022 - Present
+        time: 2022 - 2024
         details: |
           Course focusing on practical knowledge in mobile software development. Programming, projects and collaborations with other students.
           The languages used are Java, Kotlin, Swift (UIKit and SwiftUI). Experience with the IDEs IntelliJ Idea, Android Studio, Xcode and Visual Studio Code. 
@@ -94,6 +94,13 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Android Developer (internship)
+        time: 2023 - 2024
+        company: Polestar AB, Göteborg
+        details: |
+          Internship required to complete my Mobile App course. Working within the ConX Services team as Android Developer, where I started learning about
+          Automotive OS, Android Auto, Jetpack Compose plus project management tools such as Jira and Confluence. I also wrote the course's final project
+          here during my internship, with full support of Polestar's design and innovation teams.
       - role: Ordningsvakt (Security guard)
         time: 2021 - Present
         company: Securitas, Göteborg
@@ -125,6 +132,9 @@ projects:
     intro: >
         Collaborative and individual projects, part of my course.
     assignments:
+      - title: Excursions
+        link: "https://github.com/braindome/excursions-android"
+        tagline: "Points of Interest app with Tinder-like swipe UI and Android Auto support."
       - title: AWSNotes
         link: "https://github.com/braindome/aws-notes"
         tagline: "Note-taking app based on AWS, Serverless and Middy. Individual assignment."
@@ -192,7 +202,7 @@ skills:
         level: 40%
 
       - name: Kotlin
-        level: 60%
+        level: 70%
 
       - name: Swift
         level: 60%
