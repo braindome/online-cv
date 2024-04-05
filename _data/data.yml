@@ -69,14 +69,14 @@ education:
         time: 2022 - 2024
         details: |
           Course focusing on practical knowledge in mobile software development. Programming, projects and collaborations with other students.
-          The languages used are Java, Kotlin, Swift (UIKit and SwiftUI). Experience with the IDEs IntelliJ Idea, Android Studio, Xcode and Visual Studio Code. 
+          The languages used are Java, Kotlin, Swift (UIKit and SwiftUI) and JavaScript (React and AWS). Experience with the IDEs IntelliJ Idea, Android Studio, Xcode and Visual Studio Code. 
           The education includes the use of GitHub, Figma and Agile methods.
           Link: https://www.folkuniversitetet.se/vara-skolor/yh-utbildningar/alla-yh-utbildningar/it-data/mobilapplikationsutvecklare-distans/
       - degree: Ordningsvakt License
         school: Police
         time: 2019 - 2019
         details: |
-          Two-weeks course held by the Swedish Police in Borås.
+          Two-week course held by the Swedish Police in Borås.
       - degree: Teaching Programme
         university: University of Gothenburg
         time: 2011 - 2019
