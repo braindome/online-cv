@@ -94,13 +94,13 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Android Developer (internship)
+      - role: Android Developer (Internship)
         time: 2023 - 2024
         company: Polestar AB, Göteborg
         details: |
-          Internship required to complete my Mobile App course. Working within the ConX Services team as Android Developer, where I started learning about
+          Internship for the mobile developer course. Working within the ConX Services team as Android Developer, where I started learning about
           Automotive OS, Android Auto, Jetpack Compose plus project management tools such as Jira and Confluence. I also wrote the course's final project
-          here during my internship, with full support of Polestar's design and innovation teams.
+          here during my internship, Excursions, with support of Polestar's design and innovation teams.
       - role: Ordningsvakt (Security guard)
         time: 2021 - Present
         company: Securitas, Göteborg
