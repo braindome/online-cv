@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Antonio Saracino
     tagline: Mobile App Developer
-    avatar: # cvprofile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: cvprofile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: antonio.saracino83@gmail.com
@@ -147,9 +147,9 @@ projects:
       - title: Film Hound
         link: "https://github.com/braindome/film-hound"
         tagline: "Movie database web app with mock shop. Group project, developed with React and Redux."
-      - title: Abitudinario
-        link: "https://github.com/braindome/Abitudinario"
-        tagline: "Simple SwiftUi habit tracker. Individual project and iOS examination."
+      #- title: Abitudinario
+      #  link: "https://github.com/braindome/Abitudinario"
+      #  tagline: "Simple SwiftUi habit tracker. Individual project and iOS examination."
       #- title: Typocracy
       #  link: "https://github.com/braindome/Typocracy"
       #  tagline: "Speed typer game, developed for iOS devices and written in Swift/UIKit."
@@ -159,9 +159,9 @@ projects:
       #- title: Minesweeper
       #  link: "https://github.com/braindome/minesweeper"
       #  tagline: "Classic game, to be played in the terminal. Written in Java"
-      - title: Room Booking API
-        link: "https://github.com/braindome/aws-serverless-hotel-api"
-        tagline: "AWS-based room booking backend. Featuring Lambda functions, API Gateway, DynamoDB and Serverless framework. Collaborative project and examination."
+      #- title: Room Booking API
+      #  link: "https://github.com/braindome/aws-serverless-hotel-api"
+      #  tagline: "AWS-based room booking backend. Featuring Lambda functions, API Gateway, DynamoDB and Serverless framework. Collaborative project and examination."
 
 # oss:
 #    title: OSS Contributions
@@ -206,9 +206,6 @@ skills:
 
       - name: Swift
         level: 60%
-
-      - name: HTML5 & CSS
-        level: 70%
 
       - name: JavaScript
         level: 50%
