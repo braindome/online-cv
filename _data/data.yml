@@ -56,6 +56,29 @@ sidebar:
         - item: Leatherworking
           link:
 
+    
+    skills:
+        title: Skills &amp; Proficiency
+    
+        toolset:
+          - name: Java
+            level: 40%
+    
+          - name: Kotlin
+            level: 70%
+    
+          - name: Swift
+            level: 60%
+    
+          - name: HTML5 & CSS
+            level: 70%
+    
+          - name: JavaScript
+            level: 50%
+            
+          - name: React
+            level: 50%
+
 career-profile:
     title: Career Profile
     summary: |
