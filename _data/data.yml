@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Antonio Saracino
     tagline: Mobile App Developer
-    # avatar: cvprofile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: # cvprofile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: antonio.saracino83@gmail.com
@@ -59,8 +59,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Driven, engaged and motivated former teacher, currently security guard, looking to accumulate more experience as a software developer.
-        Currently studying Android and iOS development at Folkuniversitetet Göteborg.
+        Driven, engaged and motivated mobile app developer, newly graduated from Folkuniversitetet Göteborg. As a motivated and proactive mobile developer, 
+        I have honed my skills through hands-on experience and dedicated learning. During my internship at Polestar, I immersed myself in cutting-edge technologies, 
+        specializing in Android Automotive OS, Android Auto, and Jetpack Compose. Through this experience, I have gained a deep understanding of mobile development frameworks and best practices. 
+        Additionally, I am proficient in project management tools like Jira and Confluence, ensuring efficient collaboration and delivery of quality projects. 
+        With a strong passion for innovation and a dedication to delivering excellence, I am eager to apply my skills and knowledge to contribute meaningfully in the field of mobile development.
 education:
     title: Education
     info:
@@ -72,11 +75,6 @@ education:
           The languages used are Java, Kotlin, Swift (UIKit and SwiftUI) and JavaScript (React and AWS). Experience with the IDEs IntelliJ Idea, Android Studio, Xcode and Visual Studio Code. 
           The education includes the use of GitHub, Figma and Agile methods.
           Link: https://www.folkuniversitetet.se/vara-skolor/yh-utbildningar/alla-yh-utbildningar/it-data/mobilapplikationsutvecklare-distans/
-      - degree: Ordningsvakt License
-        school: Police
-        time: 2019 - 2019
-        details: |
-          Two-week course held by the Swedish Police in Borås.
       - degree: Teaching Programme
         university: University of Gothenburg
         time: 2011 - 2019
@@ -134,31 +132,33 @@ projects:
     assignments:
       - title: Excursions
         link: "https://github.com/braindome/excursions-android"
-        tagline: "Points of Interest app with Tinder-like swipe UI and Android Auto support."
-      - title: AWSNotes
-        link: "https://github.com/braindome/aws-notes"
-        tagline: "Note-taking app based on AWS, Serverless and Middy. Individual assignment."
-      - title: Film Hound
-        link: "https://github.com/braindome/film-hound"
-        tagline: "Movie database web app with mock shop. Group project, developed with React and Redux."
-      - title: Abitudinario
-        link: "https://github.com/braindome/Abitudinario"
-        tagline: "Simple SwiftUi habit tracker. Individual project and iOS examination."
-      - title: Typocracy
-        link: "https://github.com/braindome/Typocracy"
-        tagline: "Speed typer game, developed for iOS devices and written in Swift/UIKit."
+        tagline: "Android and iOS Points of Interest app with Tinder-like swipe UI and Android Auto/Apple CarPlay support. Developed in six weeks, this app is my final examination for
+        the Mobile App Dev program, which I took between 2022 and 2024. It is the result of the collaboration with my classmate, who developed the iOS version, and the designers at Polestar, who
+        designed the UI. This project gave me a great opportunity to learn Jetpack Compose as well as the integration with Android Auto and the car's infotainment system."
       - title: TiK
         link: "https://github.com/braindome/tik"
         tagline: "Household Task Tracker, developed in SwiftUI and based on Firebase."
       - title: Rate and Chat
         link: "https://github.com/braindome/RateAndChat"
         tagline: "An Android/Kotlin chat app written for Android devices where the user can talk about and rate current programs, films and sport events."
-      - title: Metal Traveller
-        link: "https://github.com/braindome/MetalTraveller"
-        tagline: "Android/Kotlin app to keep track of heavy metal-friendly locations around the world."
-      - title: Minesweeper
-        link: "https://github.com/braindome/minesweeper"
-        tagline: "Classic game, to be played in the terminal. Written in Java"
+      #- title: AWSNotes
+      #  link: "https://github.com/braindome/aws-notes"
+      #  tagline: "Note-taking app based on AWS, Serverless and Middy. Individual assignment."
+      - title: Film Hound
+        link: "https://github.com/braindome/film-hound"
+        tagline: "Movie database web app with mock shop. Group project, developed with React and Redux."
+      - title: Abitudinario
+        link: "https://github.com/braindome/Abitudinario"
+        tagline: "Simple SwiftUi habit tracker. Individual project and iOS examination."
+      #- title: Typocracy
+      #  link: "https://github.com/braindome/Typocracy"
+      #  tagline: "Speed typer game, developed for iOS devices and written in Swift/UIKit."
+      #- title: Metal Traveller
+      #  link: "https://github.com/braindome/MetalTraveller"
+      #  tagline: "Android/Kotlin app to keep track of heavy metal-friendly locations around the world."
+      #- title: Minesweeper
+      #  link: "https://github.com/braindome/minesweeper"
+      #  tagline: "Classic game, to be played in the terminal. Written in Java"
       - title: Room Booking API
         link: "https://github.com/braindome/aws-serverless-hotel-api"
         tagline: "AWS-based room booking backend. Featuring Lambda functions, API Gateway, DynamoDB and Serverless framework. Collaborative project and examination."
