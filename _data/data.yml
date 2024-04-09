@@ -127,8 +127,8 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-        Collaborative and individual projects, part of my course.
+    # intro: >
+    #    Collaborative and individual projects, part of my course.
     assignments:
       - title: Excursions
         link: "https://github.com/braindome/excursions-android"
