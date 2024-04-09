@@ -133,8 +133,9 @@ projects:
       - title: Excursions
         link: "https://github.com/braindome/excursions-android"
         tagline: "Android and iOS Points of Interest app with Tinder-like swipe UI and Android Auto/Apple CarPlay support. Developed in six weeks, this app is my final examination for
-        the Mobile App Dev program, which I took between 2022 and 2024. It is the result of the collaboration with my classmate, who developed the iOS version, and the designers at Polestar, who
-        designed the UI. This project gave me a great opportunity to learn Jetpack Compose as well as the integration with Android Auto and the car's infotainment system."
+        the Mobile App Dev program, which I took between 2022 and 2024. It is the result of the collaboration with my classmate, who developed the iOS version, and the UI-designers at Polestar.
+        This project gave me a great opportunity to learn Jetpack Compose (navigation, coroutines and MVVM), as well as the integration with Android Auto and the car's infotainment system. I 
+        also designed and styled each component according to the Polestar brand."
       - title: TiK
         link: "https://github.com/braindome/tik"
         tagline: "Household Task Tracker, developed in SwiftUI and based on Firebase."
