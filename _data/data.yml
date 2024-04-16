@@ -115,15 +115,13 @@ experiences:
         time: 2011 - 2014
         company: Hulebäcksgymnasiet, Härryda
         details: |
-            Internship as part of Teaching Programme. Working daily alongside university studies and seminars.
-            - English classes: First and third years.
-            - Italian classes: First, second and third years.
-      - role: Italian Language Teacher
-        time: 2007 - 2010
-        company: Folkuniversitetet, Borås/Göteborg
-        details: |
-            Teaching beginner, intermediate and advanced students. Evening courses.
-            - Italienska steg 1, 2, 3, 4 och 7
+            Internship as part of Teaching Programme. Working daily alongside university studies and seminars, teaching English and Italian classes at various levels.
+      # - role: Italian Language Teacher
+      #   time: 2007 - 2010
+      #   company: Folkuniversitetet, Borås/Göteborg
+      #   details: |
+      #       Teaching beginner, intermediate and advanced students. Evening courses.
+      #       - Italienska steg 1, 2, 3, 4 och 7
 
 projects:
     title: Projects
